@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# After publishing, add a sitemap line using your actual deployed URL.
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
